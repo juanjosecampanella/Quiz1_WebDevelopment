@@ -1,0 +1,6 @@
+#miElemento {
+    width: 200px;
+    height: 200px;
+    background-color: red; /* Color inicial */
+    border: 1px solid #000;
+}
