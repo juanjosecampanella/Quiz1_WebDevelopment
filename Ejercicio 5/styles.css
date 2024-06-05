@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.style-input {
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#statusMessage {
+    font-size: 14px;
+    color: green;
+}
+
+.demo-class {
+    background-color: #e0e0e0;
+    color: #333;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+.another-class {
+    background-color: #d1e7dd;
+    color: #0f5132;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #badbcc;
+}
